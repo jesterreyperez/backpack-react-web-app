@@ -1,4 +1,5 @@
-@import '~bpk-mixins';
+@import '~@skyscanner/backpack-web/bpk-mixins';
+@import '~@skyscanner/backpack-web/bpk-stylesheets';
 
 @mixin container {
   max-width: $bpk-breakpoint-desktop;
